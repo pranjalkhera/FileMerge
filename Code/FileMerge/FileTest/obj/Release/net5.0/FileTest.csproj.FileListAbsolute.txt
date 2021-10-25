@@ -1,0 +1,15 @@
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\FileTest.exe
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\FileTest.deps.json
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\FileTest.runtimeconfig.json
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\FileTest.runtimeconfig.dev.json
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\FileTest.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\ref\FileTest.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\bin\Release\net5.0\FileTest.pdb
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.AssemblyInfoInputs.cache
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.AssemblyInfo.cs
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.csproj.CoreCompileInputs.cache
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\ref\FileTest.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.pdb
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileTest\obj\Release\net5.0\FileTest.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.AssemblyInfoInputs.cache
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.AssemblyInfo.cs
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.csproj.CoreCompileInputs.cache
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\FileMerge.exe
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\FileMerge.deps.json
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\FileMerge.runtimeconfig.json
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\FileMerge.runtimeconfig.dev.json
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\FileMerge.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\ref\FileMerge.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\bin\Debug\net5.0\FileMerge.pdb
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\ref\FileMerge.dll
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.pdb
+C:\Users\Vikash\Desktop\Pranjal\Code\FileMerge\FileMerge\obj\Debug\net5.0\FileMerge.genruntimeconfig.cache
